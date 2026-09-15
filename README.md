@@ -2,7 +2,7 @@
 
 I write code, break things, fix them, and build software that works.
 
-🚀 About Me
+🚀 About Me</br>
 💻 Currently working on React projects
 🌱 Learning: React, Node.js, C# and C++
 👯 Looking to collaborate on open source projects
