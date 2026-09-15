@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey, I'm Kingsley.
 
-<!--
-**kingsleyokwudiri/kingsleyokwudiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write code, break things, fix them, and build software that works.
 
-Here are some ideas to get you started:
+🚀 About Me
+💻 Currently working on React projects
+🌱 Learning: React, Node.js, C# and C++
+👯 Looking to collaborate on open source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Tools
+Languages: Python, JavaScript, TypeScript, C++
+Frontend: React, HTML5, CSS3, Tailwind CSS
+Backend: Node.js
